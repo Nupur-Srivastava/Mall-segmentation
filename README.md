@@ -33,6 +33,8 @@ This will open the Jupyter Notebook software and project file in your browser.
 
 ## K-means
 K-means clustering is a type of unsupervised learning, which is used when you have unlabeled data (i.e., data without defined categories or groups). The goal of this algorithm is to find groups in the data, with the number of groups represented by the variable K. ... Data points are clustered based on feature similarity
+![download (2)](https://user-images.githubusercontent.com/70944857/136672024-b814a1db-4910-41d1-856e-24ca53f9a9be.png)
+
 ## Elbow method
 The elbow method runs k-means clustering on the dataset for a range of values for k (say from 1-10) and then for each value of k computes an average score for all clusters
 ![download (1)](https://user-images.githubusercontent.com/70944857/136671994-c6740896-76b3-49e0-9c2e-75e7f36714d3.png)
